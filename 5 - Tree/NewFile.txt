@@ -1,0 +1,3 @@
+1 | Let's Play! | It is Monday morning and your alarm goes off. What do you do?
+1-3 | Wake up dude. | You get to class on time, but you're a bit drowsy. What do you do?
+1-2 | Wake up. | You get to class on time, but you're a bit drowsy. What do you do?
